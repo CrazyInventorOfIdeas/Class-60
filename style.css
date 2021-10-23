@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: 'Zen Kurenaido', sans-serif;
+    color:aliceblue;
+}
+
+#apps {
+    background-color: cornflowerblue;
+    padding-bottom: 30px;
+}
+
+#games {
+    background-color: deepskyblue;
+    padding-bottom: 30px;
+}
+
+#chatbots {
+    background-color: dodgerblue;
+    padding-bottom: 30px
+}
+h1{
+    font-size: 40px;
+}
